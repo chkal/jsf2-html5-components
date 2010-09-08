@@ -1,0 +1,34 @@
+This component library aims to provide JSF2 with HTML5 components.
+
+Origins:
+===================
+
+The Idea of creating a HTML5 components library for JSF2 was given through
+the presentation "Exploring HTML5 With JavaServer Faces 2.0" from
+
+Roger Kitain on Jazoon 2010
+(
+- http://www.slideshare.net/rkitain/jsf2-html5jazoon
+- http://twitter.com/rogerk09
+)
+
+and
+
+Jan Kees van Andel
+( http://twitter.com/jankeesvanandel ) for his work on creating
+html5 components for parleys.com
+
+
+Current project members
+========================
+
+- Dominik Dorn; http://dominikdorn.com - http://twitter.com/domdorn
+- Lincoln Baxter; http://ocpsoft.com - http://twitter.com/lincolnthree
+
+if you want to join, simply drop a message through GitHub or fork this project!
+
+
+License:
+========
+Apache 2.0; see http://www.apache.org/licenses/LICENSE-2.0.html
+
