@@ -19,6 +19,10 @@ Jan Kees van Andel
 html5 components for parleys.com
 
 
+The current version is based on a Google Summer of Code Project for the
+Apache MyFaces Project. 
+
+
 Current project members
 ========================
 
@@ -39,3 +43,6 @@ http://diveintohtml5.org/
 http://xhtml.com/en/future/x-html-5-versus-xhtml-2/
 html5 validator: http://validator.nu/
 http://code.google.com/p/parleys-html5/
+
+some already existing tags:
+http://code.google.com/p/parleys-html5/source/browse/trunk/web-html5/src/main/java/com/parleys/server/frontend/web/jsf/components/html5/
