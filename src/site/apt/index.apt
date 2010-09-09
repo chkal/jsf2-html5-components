@@ -1,0 +1,37 @@
+ ~~ Licensed to the Apache Software Foundation (ASF) under one or more
+ ~~ contributor license agreements.  See the NOTICE file distributed with
+ ~~ this work for additional information regarding copyright ownership.
+ ~~ The ASF licenses this file to You under the Apache License, Version 2.0
+ ~~ (the "License"); you may not use this file except in compliance with
+ ~~ the License.  You may obtain a copy of the License at
+ ~~
+ ~~      http://www.apache.org/licenses/LICENSE-2.0
+ ~~
+ ~~ Unless required by applicable law or agreed to in writing, software
+ ~~ distributed under the License is distributed on an "AS IS" BASIS,
+ ~~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ ~~ See the License for the specific language governing permissions and
+ ~~ limitations under the License.
+
+ ------
+ Overview 
+ ------
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Summary
+
+  This project delivers a new set of JSF components to integrate browsers with Java Server Faces server-side rendering technology.
+  
+  Initial project proposal and schedule can be found {{{http://wiki.apache.org/myfaces/GSoC2010_HTML5}here}}.
+  
+  A presentation can be found <<{{{http://people.apache.org/~aliok/GSoC/tagged/slide/MyFaces2-Html5-Comp-Lib-Tagged.ppt}here}}>>.
+  
+  An online running example application is deployed at <<{{{http://html5-comp-lib-showcase-snapshot.latest.aliok-com-tr-test.appspot.com/index.jsf}this}}>> location.
+  
+  The project web site can be found <<{{{http://people.apache.org/~aliok/GSoC/tagged/html5-comp-lib-project/target/site/index.html}here}}>>.
+  
+To Google Summer of Code Admins
+  
+  Since Google requires to submit the code only developed during Google Summer Of Code period, I've tagged the code developed during GSoC period to 
+  <<{{{http://svn.apache.org/repos/asf/myfaces/gsoc/html5-comp-lib/tags/gsoc_final}this}}>> location. 
